@@ -4,6 +4,10 @@
 
 [![Build Status](https://img.shields.io/github/workflow/status/pellared/taskflow-example/build)](https://github.com/pellared/taskflow-example/actions?query=workflow%3Abuild+branch%3Amain)
 
+[![Demo](https://img.youtube.com/vi/8rOBZafbVGY/hqdefault.jpg)](https://www.youtube.com/watch?v=8rOBZafbVGYa)
+
+[Presentation](https://docs.google.com/presentation/d/1fJ26B1D1VkxC-1DppegPCe8YOaA3Ayrbke2yAx-Kzcs/edit?usp=sharing).
+
 Running:
 
 ```sh
